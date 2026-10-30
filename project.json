@@ -1,0 +1,22 @@
+{
+  "name": "team-fortress-2-loadout-planner",
+  "displayName": "Team Fortress 2 Loadout Planner",
+  "programType": "loadout-planner",
+  "repositoryContents": "Project documentation and artwork",
+  "downloadPage": "https://meteoric-rook-835.github.io/",
+  "descriptionSource": "Project owner",
+  "sections": [
+    "Class profiles",
+    "Equipment notes",
+    "Session records"
+  ],
+  "topics": [
+    "team-fortress-2-loadout-planner",
+    "team-fortress-2-tools",
+    "team-fortress-2-menu",
+    "team-fortress-2-settings",
+    "team-fortress-2-configs",
+    "team-fortress-2-class-profiles",
+    "team-fortress-2-equipment-notes"
+  ]
+}
